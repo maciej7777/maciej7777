@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Maciejs's GitHub stats](https://github-readme-stats.vercel.app/api?username=maciej7777&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciej7777&layout=compact)](https://github.com/anuraghazra/github-readme-stats))<br>
+
 
 <!--
 **maciej7777/maciej7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
